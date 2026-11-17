@@ -1,12 +1,12 @@
 <!-- HERO HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,55:991B1B,100:0284C7&height=240§ion=header&text=ZUNAIRA&fontSize=80&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=UNDERGRADUATE%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,55:991B1B,100:0284C7&height=240§ion=header&text=ZUNAIRA&fontSize=80&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=UNDERGRADUATE%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=60&descSize=16" width="100%"/>
 </div>
 
 <!-- WEBSITE NAVIGATION BAR -->
 <p align="center">
   <a href="#-identity">
-    <img src="https://img.shields.io/badge/01_//_IDENTITY-0B0E14?style=for-the-badge&logoColor=00E5FF" />
+    <img src="https://img.shields.io/badge/01_//_IDENTITY-0B0E14?style=for-the-badge" />
   </a>
   <a href="#-skill-matrix">
     <img src="https://img.shields.io/badge/02_//_SKILL_MATRIX-DC2626?style=for-the-badge" />
@@ -16,9 +16,9 @@
   </a>
 </p>
 
-<!-- ANIMATED SUBTITLE -->
+<!-- ANIMATED LIVE TERMINAL CARD -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=DC2626¢er=true&vCenter=true&width=680&height=45&lines=SYSTEM+ONLINE+%E2%9C%A6+WELCOME+TO+MY+WORKSPACE;C%2B%2B+%7C+PYTHON+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+MYSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00E5FF&background=0B0E14¢er=true&vCenter=true&multiline=true&width=720&height=85&lines=%5BSYSTEM_STATUS%5D+%E2%9C%A6+ONLINE+%26+EVOLVING;STACK+%3E%3E+C%2B%2B+%7C+PYTHON+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+MYSQL" alt="Animated Terminal Card" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -34,7 +34,7 @@
 
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="52%" valign="top">
       <h3>Hello, I'm Zunaira 👋</h3>
       <p>
         I am an <b>Undergraduate Student</b> building a strong foundation in core programming, interactive front-end interfaces, and relational databases.
@@ -44,21 +44,11 @@
       </p>
       <br/>
       <img src="https://img.shields.io/badge/ROLE-UNDERGRADUATE_STUDENT-0B0E14?style=for-the-badge&labelColor=DC2626" /><br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-CONTINUOUS_UPGRADE-0B0E14?style=for-the-badge&labelColor=0284C7" />
+      <img src="https://img.shields.io/badge/MODE-CONTINUOUS_UPGRADE-0B0E14?style=for-the-badge&labelColor=0284C7" />
     </td>
-    <td width="45%" valign="center">
-      <pre lang="cpp">
-// profile.hpp
-#include <string>
-
-class Zunaira {
-public:
-    std::string name     = "Zunaira";
-    std::string role     = "Undergraduate";
-    std::string focus    = "Logic & Interfaces";
-    bool evolving        = true;
-};
-      </pre>
+    <td width="48%" valign="center" align="center">
+      <!-- ANIMATED LIVE DIAGNOSTIC CARD -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=1200&color=00E5FF&background=0B0E14&vCenter=true&multiline=true&width=410&height=175&lines=+%3E+USER%3A+Zunaira;+%3E+LEVEL%3A+Undergraduate;+%3E+LOGIC%3A+C%2B%2B+%26+Python+%5BACTIVE%5D;+%3E+UI%3A+HTML5+%2F+CSS3+%2F+JS+%5BACTIVE%5D;+%3E+DATA%3A+MySQL+%5BACTIVE%5D;+%3E+NEXT_MODULE%3A+Loading..." alt="Diagnostic Card" />
     </td>
   </tr>
 </table>
@@ -85,7 +75,7 @@ public:
 
 <br/>
 
-<!-- DETAILED SKILL MATRIX TABLE -->
+<!-- ANIMATED SKILL CARDS TABLE -->
 <table align="center" width="100%">
   <thead>
     <tr>
@@ -102,6 +92,8 @@ public:
         <sub>Object-Oriented Programming & Core Logic</sub><br/><br/>
         <img src="https://img.shields.io/badge/Python-0B0E14?style=for-the-badge&logo=python&logoColor=00E5FF" /><br/>
         <sub>Scripting, Data Structures & Automation</sub><br/><br/>
+        <!-- ANIMATED CARD FOOTER -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=13&duration=2500&pause=800&color=DC2626&background=0B0E14¢er=true&vCenter=true&width=250&height=34&lines=%5BSTATUS%3A+CORE_READY%5D;OOP+%26+ALGORITHMS" />
       </td>
       <td align="center" valign="top">
         <br/>
@@ -111,6 +103,8 @@ public:
         <sub>Responsive Layouts & Styling</sub><br/><br/>
         <img src="https://img.shields.io/badge/JavaScript-0B0E14?style=for-the-badge&logo=javascript&logoColor=00E5FF" /><br/>
         <sub>DOM Manipulation & Interactivity</sub><br/><br/>
+        <!-- ANIMATED CARD FOOTER -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=13&duration=2500&pause=800&color=00E5FF&background=0B0E14¢er=true&vCenter=true&width=250&height=34&lines=%5BSTATUS%3A+UI_ONLINE%5D;RESPONSIVE+%26+DYNAMIC" />
       </td>
       <td align="center" valign="top">
         <br/>
@@ -119,6 +113,8 @@ public:
         <!-- ADD NEW SKILLS BELOW THIS LINE LATER -->
         <img src="https://img.shields.io/badge/+_NEXT_SKILL_SLOT-DC2626?style=for-the-badge" /><br/>
         <sub>Reserved for upcoming technologies</sub><br/><br/>
+        <!-- ANIMATED CARD FOOTER -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=13&duration=2500&pause=800&color=DC2626&background=0B0E14¢er=true&vCenter=true&width=250&height=34&lines=%5BSTATUS%3A+EXPANDABLE%5D;AWAITING_NEW_MODULES" />
       </td>
     </tr>
   </tbody>
@@ -128,7 +124,7 @@ public:
 
 ---
 
-<!-- SECTION 03: CORE CAPABILITIES -->
+<!-- SECTION 03: ANIMATED CORE CAPABILITY CARDS -->
 <div id="-core-domains"></div>
 
 <p align="center">
@@ -138,15 +134,15 @@ public:
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/ALGORITHMIC_LOGIC-DC2626?style=for-the-badge" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=2400&pause=900&color=DC2626&background=0B0E14¢er=true&vCenter=true&width=265&height=42&lines=01+%2F%2F+ALGORITHMIC_LOGIC;C%2B%2B+%26+PYTHON_ENGINE" />
       <p>Writing structured, efficient logic and practicing problem-solving using <b>C++</b> and <b>Python</b>.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/INTERFACE_DESIGN-0284C7?style=for-the-badge" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=2400&pause=900&color=00E5FF&background=0B0E14¢er=true&vCenter=true&width=265&height=42&lines=02+%2F%2F+INTERFACE_DESIGN;HTML5+%E2%80%A2+CSS3+%E2%80%A2+JS" />
       <p>Building dark-themed, responsive web interfaces using <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/DATA_MANAGEMENT-0B0E14?style=for-the-badge&labelColor=DC2626" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=2400&pause=900&color=DC2626&background=0B0E14¢er=true&vCenter=true&width=265&height=42&lines=03+%2F%2F+DATA_MANAGEMENT;MYSQL_RELATIONAL_DB" />
       <p>Designing tables, managing relationships, and querying structured datasets with <b>MySQL</b>.</p>
     </td>
   </tr>
