@@ -1,62 +1,60 @@
-<!-- TOP NAVIGATION BAR (WEBSITE HEADER STYLE) -->
+<!-- HERO HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0284C7,100:00E5FF&height=230§ion=header&text=ZUNAIRA&fontSize=75&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=UNDERGRADUATE%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0284C7,100:00E5FF&height=240§ion=header&text=ZUNAIRA&fontSize=80&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=UNDERGRADUATE%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=60&descSize=16" width="100%"/>
 </div>
 
+<!-- WEBSITE NAVIGATION BAR -->
 <p align="center">
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/01._ABOUT_ME-020617?style=for-the-badge&logoColor=00E5FF" />
+  <a href="#-identity">
+    <img src="https://img.shields.io/badge/01_//_IDENTITY-020617?style=for-the-badge" />
   </a>
-  <a href="#-tech-stack">
-    <img src="https://img.shields.io/badge/02._TECH_STACK-020617?style=for-the-badge&logoColor=00E5FF" />
+  <a href="#-skill-matrix">
+    <img src="https://img.shields.io/badge/02_//_SKILL_MATRIX-0284C7?style=for-the-badge" />
   </a>
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/03._PROJECTS-020617?style=for-the-badge&logoColor=00E5FF" />
-  </a>
-  <a href="#-github-analytics">
-    <img src="https://img.shields.io/badge/04._ANALYTICS-020617?style=for-the-badge&logoColor=00E5FF" />
+  <a href="#-core-domains">
+    <img src="https://img.shields.io/badge/03_//_CORE_DOMAINS-020617?style=for-the-badge" />
   </a>
 </p>
 
-<!-- ANIMATED TERMINAL SUB-BANNER -->
+<!-- ANIMATED SUBTITLE (RELIABLE HEROKU/VERCEL MIRROR) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF¢er=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=Welcome+to+my+Digital+Workspace+%F0%9F%92%A0;Building+Logic%2C+Interfaces+%26+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF¢er=true&vCenter=true&width=650&height=45&lines=SYSTEM+ONLINE+%E2%9C%A6+WELCOME+TO+MY+WORKSPACE;C%2B%2B+%7C+PYTHON+%7C+WEB+DEVELOPMENT+%7C+MYSQL" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- SECTION 01: HERO / ABOUT ME -->
-<div id="-about-me"></div>
+<!-- SECTION 01: IDENTITY CARD -->
+<div id="-identity"></div>
 
-## 💠 `01.` SYSTEM PROFILE // ABOUT ME
+## 💠 `01.` SYSTEM IDENTITY
 
-<table>
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3>Hello, I'm Zunaira 👋</h3>
       <p>
-        I am an <b>Undergraduate Student</b> passionate about core programming, problem-solving, and clean web interfaces. I enjoy bridging backend logic with responsive front-end design.
+        I am an <b>Undergraduate Student</b> building a strong foundation in core programming, interactive front-end interfaces, and relational databases.
       </p>
-      <ul>
-        <li>🎓 <b>Status:</b> Undergraduate Student</li>
-        <li>💻 <b>Focus:</b> Core Programming, Web Development & Database Systems</li>
-        <li>🚀 <b>Currently:</b> Expanding my technical stack and building structured projects</li>
-        <li>🎯 <b>Goal:</b> Crafting efficient, scalable, and visually sharp software</li>
-      </ul>
+      <p>
+        Focused on writing clean, structured code and continuously expanding my technical capabilities one language at a time.
+      </p>
+      <br/>
+      <img src="https://img.shields.io/badge/STATUS-UNDERGRADUATE_STUDENT-020617?style=flat-square&labelColor=0284C7" />
+      <img src="https://img.shields.io/badge/MODE-CONTINUOUS_LEARNING-020617?style=flat-square&labelColor=00E5FF" />
     </td>
-    <td width="40%" valign="center">
-      <!-- CODE WINDOW CARD -->
+    <td width="45%" valign="center">
       <pre lang="cpp">
-// zunaira.config.cpp
-#include <iostream>
+// profile.hpp
+#include <string>
 
-struct Developer {
-    std::string name = "Zunaira";
-    std::string role = "Undergraduate";
-    std::string theme = "#00E5FF";
-    bool learning = true;
+class Zunaira {
+public:
+    std::string status = "Undergraduate";
+    std::string focus  = "Logic & Interfaces";
+    std::string accent = "#00E5FF"; // Kaiser Cyan
+    bool evolving      = true;
 };
       </pre>
     </td>
@@ -67,41 +65,56 @@ struct Developer {
 
 ---
 
-<!-- SECTION 02: TECH STACK (ONLY YOUR SPECIFIED SKILLS + EXPANDABLE SLOTS) -->
-<div id="-tech-stack"></div>
+<!-- SECTION 02: FANCY VISUAL SKILL SHOWCASE -->
+<div id="-skill-matrix"></div>
 
-## ⚡ `02.` TECHNICAL ARSENAL
+## ⚡ `02.` TECHNICAL SKILL MATRIX
 
 <p align="center">
-  <i>Categorized stack — structured for easy expansion as I master new technologies.</i>
+  <i>Current active stack — modularly designed for future upgrades.</i>
 </p>
 
+<!-- LARGE GLOWING ICON BAR -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,mysql&theme=dark&perline=6" alt="Zunaira's Skills" />
+</p>
+
+<br/>
+
+<!-- DETAILED SKILL CARDS TABLE -->
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th width="33%">🧠 Core & Scripting</th>
-      <th width="33%">🌐 Frontend Web</th>
-      <th width="33%">🗄️ Database & Future Slots</th>
+      <th width="33%">🔷 Programming & Logic</th>
+      <th width="33%">💠 Frontend Architecture</th>
+      <th width="33%">🗄️ Database & Expansion</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" valign="top">
         <br/>
-        <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" alt="C++" /><br/><br/>
-        <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python" /><br/><br/>
+        <img src="https://img.shields.io/badge/C++-020617?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" /><br/>
+        <sub>Object-Oriented Programming & Core Logic</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00E5FF" /><br/>
+        <sub>Scripting, Data Structures & Automation</sub><br/><br/>
       </td>
       <td align="center" valign="top">
         <br/>
-        <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=00E5FF" alt="HTML5" /><br/><br/>
-        <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=00E5FF" alt="CSS3" /><br/><br/>
-        <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=00E5FF" alt="JavaScript" /><br/><br/>
+        <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=00E5FF" /><br/>
+        <sub>Semantic Web Structure</sub><br/><br/>
+        <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=00E5FF" /><br/>
+        <sub>Responsive Layouts & Styling</sub><br/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=00E5FF" /><br/>
+        <sub>DOM Manipulation & Interactivity</sub><br/><br/>
       </td>
       <td align="center" valign="top">
         <br/>
-        <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00E5FF" alt="MySQL" /><br/><br/>
-        <!-- ADD NEW SKILLS BELOW THIS LINE LATER -->
-        <img src="https://img.shields.io/badge/+_Loading_Next_Skill...-0284C7?style=for-the-badge" alt="Loading" /><br/><br/>
+        <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00E5FF" /><br/>
+        <sub>Relational Schemas & SQL Queries</sub><br/><br/>
+        <!-- FUTURE SKILL SLOT (REPLACE WHEN YOU LEARN NEW SKILLS) -->
+        <img src="https://img.shields.io/badge/+_NEXT_MODULE_LOCKED-0284C7?style=for-the-badge" /><br/>
+        <sub>Reserved for upcoming technologies</sub><br/><br/>
       </td>
     </tr>
   </tbody>
@@ -111,77 +124,31 @@ struct Developer {
 
 ---
 
-<!-- SECTION 03: WEBSITE-STYLE PROJECT SHOWCASE CARDS -->
-<div id="-featured-projects"></div>
+<!-- SECTION 03: WHAT I DO WITH THESE SKILLS (REPLACES EMPTY PROJECTS SECTION) -->
+<div id="-core-domains"></div>
 
-## 🗂️ `03.` PROJECT SHOWCASE
-
-<p align="center">
-  <i>Selected repositories highlighting logic, data structures, and web design.</i>
-</p>
+## 🌐 `03.` CORE CAPABILITIES
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔷 C++ & DSA Architecture</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00E5FF?style=flat-square&logo=cplusplus&logoColor=020617" />
-        <img src="https://img.shields.io/badge/OOP-0284C7?style=flat-square&logoColor=white" />
-      </p>
-      <p>
-        Object-Oriented Programming models, memory management drills, and algorithmic implementations built from scratch in C++.
-      </p>
-      <p align="center">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/C-Plus-Plus-Projects">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY_↗-020617?style=for-the-badge" />
-        </a>
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h4>⚙️ Algorithmic Thinking</h4>
+      <p>Writing structured, efficient logic and practicing problem-solving using <b>C++</b> and <b>Python</b>.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Interactive Web Interfaces</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-00E5FF?style=flat-square&logo=html5&logoColor=020617" />
-        <img src="https://img.shields.io/badge/CSS3-0284C7?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-00E5FF?style=flat-square&logo=javascript&logoColor=020617" />
-      </p>
-      <p>
-        Responsive front-end web layouts, DOM-manipulated mini-applications, and styled multi-section interfaces.
-      </p>
-      <p align="center">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/JavaScript-Practice-">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY_↗-020617?style=for-the-badge" />
-        </a>
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h4>🎨 Interface Engineering</h4>
+      <p>Designing clean, dark-themed, responsive web interfaces using <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>📊 Structured Data</h4>
+      <p>Designing tables, managing relationships, and querying structured datasets with <b>MySQL</b>.</p>
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- SECTION 04: LIVE ANALYTICS DASHBOARD -->
-<div id="-github-analytics"></div>
-
-## 📊 `04.` LIVE SYSTEM TELEMETRY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=020617&title_color=00E5FF&text_color=E0F2FE&icon_color=00E5FF&border_color=0284C7&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=020617&title_color=00E5FF&text_color=E0F2FE&border_color=0284C7&hide_border=false" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=020617&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E0F2FE&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=0284C7&border=0284C7" />
-</p>
-
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=00E5FF&line=00E5FF&point=E0F2FE&area=true&area_color=0284C7&hide_border=false&border_color=0284C7" width="100%" />
-</p>
-
----
+<br/>
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0284C7,100:020617&height=120§ion=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,55:0284C7,100:020617&height=120§ion=footer" width="100%"/>
 </div>
